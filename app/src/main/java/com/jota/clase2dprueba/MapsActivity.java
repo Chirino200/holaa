@@ -45,5 +45,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap.moveCamera(CameraUpdateFactory.zoomTo(14));
         mMap.setMapType(GoogleMap.MAP_TYPE_HYBRID);
         mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
+        //jhjkghjkhukcyhgjfgh
     }
 }
